@@ -2,6 +2,9 @@
 
 In this challenge, you will **deploy** an API of your choosing to `heroku`.
 
+PROJECT SUBMISSION: For this project, I deployed the Web API challenge from yesterday's project to Heroku. I have sent the site's link to my PM for approval.
+It can be found here: https://tico-sprint-9.herokuapp.com/
+
 ## Instructions
 
 You are allowed, and **encouraged**, to collaborate with other peers. Please follow the twenty-minute rule, before seeking support from your PM and Instructor.
